@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("d:/embedded-system/embedded-go/" . "blink-led/")
+ ("d:/embedded-system/" . "embedded-go/")
+ ("c:/fasm/EXAMPLES/" . "HELLOTERMINAL/")
+ ("c:/fasm/" . "EXAMPLES/")
+ ("c:/" . "fasm/")
+ ("d:/learn-assemblyLang/" . "secondprogram/")
+ ("c:/Users/triil/.emacs.d/" . "lang/")
+ ("c:/Users/triil/" . ".emacs.d/")
+ ("d:/my-notes/build-on-c3/" . "extern-c/")
+ ("d:/my-notes/" . "build-on-c3/")
+ ("d:/" . "my-notes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "d:/my-notes/build-on-c3/extern-c/"
+ "c:/Users/triil/.emacs.d/"
+ "d:/embedded-system/embedded-go/blink-led/"
+ "c:/Users/triil/.emacs.d/lang/"
+ "c:/fasm/EXAMPLES/HELLOTERMINAL/"
+ "d:/learn-assemblyLang/secondprogram/"
+ "c:/Users/triil/scoop/apps/emacs/current/bin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.c3"
+ "init.el"
+ "manual.typ"
+ "main.asm"
+ "main"
+ "zigcal.zig"
+ "calculator.c"
+ "c3-language.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/triil/.emacs.d/" (26633 42191 0 0) "typst-ts-mode/" "tree-sitter/" "transient/" "lang/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "c3-ts-mode/" "auto-save-list/" ".emacs.custom.el~" ".emacs.custom.el" ".cache/" "../" "./")
+
+ ("d:/embedded-system/embedded-go/blink-led/" (26633 25665 0 0) "manual.typ~" "manual.typ" "manual.pdf" "manu" "main.go" "go.mod" "debug.log" ".#manual.typ" "#manual.typ#" "../" "./")
+
+ ("d:/embedded-system/embedded-go/" (26611 45372 0 0) "blink-led/" "../" "./")
+
+ ("d:/embedded-system/" (26611 45378 0 0) "stm32f411-baremetal-workspace/" "raspberrypi_RP2040_work_space/" "embedded-go/" "../" "./")
+
+ ("c:/Users/triil/" (26632 61715 0 0) "~/" "_viminfo" "Zotero/" "VirtualBox VMs/" "Videos/" "usb_driver/" "Untitled.ipynb" "Trelby/" "Templates/" "STM32Cube/" "Start Menu/" "source/" "SendTo/" "Searches/" "scoop/" "Saved Games/" "Recent/" "raylibhelloworld.exe" "quartus2.qreg" "quartus2.ini" "PycharmProjects/" "Proton Drive/" "PrintHood/" "postgresql_16.exe" "postgis_3_4_pg16.exe" "portacle/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf" "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.blf" "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.2.regtrans-ms" "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.1.regtrans-ms" "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "miniconda3/" "mechvibes_custom/" "mechvibes.log" "main.c" "Local Settings/" "Links/" "LGP/" "komorebi.json" "kasama-webstorm/" "kasama-jetbrains-rider/" "java_error_in_rider_10560.log" "java_error_in_clion_4456.log" "hKDOGI1VsW1" "go/" "Favorites/" "edb_psqlodbc.exe" "edb_pgjdbc.exe" "edb_pgagent_pg16.exe" "edb_npgsql.exe" "Downloads/" "Documents/" "Cookies/" "Contacts/" "applications.yaml" "Application Data/" "AppData/" "2.12" ".zsh_history" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zcompdump-fattah25-5.9.zwc" ".zcompdump-fattah25-5.9" ".wokwi/" ".wezterm.lua" ".vscode/" ".VirtualBox/" ".viminfo" ".thumbnails/" ".texlive2024/" ".templateengine/" ".stmcufinder/" ".stmcube/" ".stm32cubemx/" ".stm32cubeide/" ".ssh/" ".sourcekit-lsp/" ".rustup/" ".redhat/" ".qtemu/" ".pulsar/" ".platformio/" ".pico-sdk/" ".openjfx/" ".ollama/" ".oh-my-zsh/" ".nrfutil/" ".nrfconnect-apps/" ".ms-ad/" ".micropico-stubs/" ".matplotlib/" ".logseq/" ".local/" ".limpc/" ".lim/" ".jupyter/" ".julia/" ".ipython/" ".ipynb_checkpoints/" ".installer_lock_file" ".ideavimrc" ".history" ".gitconfig" ".emacs~" ".emacs.d/" ".duckdb/" ".dotnet/" ".dotfiles.orig/" ".doom.d/" ".docker/" ".deno/" ".dbus-keyrings/" ".cortex-debug" ".config/" ".conda/" ".chocolatey/" ".cargo/" ".cache/" ".bundle/" ".bash_history" ".azure/" ".aws/" ".ash_history" ".arduinoIDE/" ".android/" "-1.14-windows.xml" "../" "./")
+
+ ("c:/Users/triil/scoop/apps/emacs/current/share/emacs/30.1/lisp/" (26632 19123 0 0) "yank-media.elc" "yank-media.el" "xwidget.elc" "xwidget.el" "xt-mouse.elc" "xt-mouse.el" "xml.elc" "xml.el" "xdg.elc" "xdg.el" "x-dnd.elc" "x-dnd.el" "woman.elc" "woman.el" "winner.elc" "winner.el" "window.elc" "window.el" "window-tool-bar.elc" "window-tool-bar.el" "windmove.elc" "windmove.el" "widget.elc" "widget.el" "wid-edit.elc" "wid-edit.el" "wid-browse.elc" "wid-browse.el" "whitespace.elc" "whitespace.el" "which-key.elc" "which-key.el" "wdired.elc" "wdired.el" "w32-vars.elc" "w32-vars.el" "w32-fns.elc" "w32-fns.el" "visual-wrap.elc" "visual-wrap.el" "view.elc" "view.el" "version.elc" "version.el" "vcursor.elc" "vcursor.el" "vc/" "userlock.elc" "userlock.el" "use-package/" "url/" "uniquify.elc" "uniquify.el" "type-break.elc" "type-break.el" "tutorial.elc" "tutorial.el" "treesit.elc" "treesit.el" "tree-widget.elc" "tree-widget.el" "transient.elc" "transient.el" "touch-screen.elc" "touch-screen.el" "tooltip.elc" "tooltip.el" "tool-bar.elc" "tool-bar.el" "tmm.elc" "tmm.el" "timezone.elc" "timezone.el" "time.elc" "time.el" "time-stamp.elc" "time-stamp.el" "thread.elc" "thread.el" "thingatpt.elc" "thingatpt.el" "theme-loaddefs.el" "textmodes/" "term.elc" "term.el" "term/" "tempo.elc" "tempo.el" "tar-mode.elc" "tar-mode.el" "talk.elc" "talk.el" "tabify.elc" "tabify.el" "tab-line.elc" "tab-line.el" "tab-bar.elc" "tab-bar.el" "t-mouse.elc" "t-mouse.el" "svg.elc" "svg.el" "subr.elc" "subr.el" "subdirs.el" "strokes.elc" "strokes.el" "startup.elc" "startup.el" "sqlite.elc" "sqlite.el" "sqlite-mode.elc" "sqlite-mode.el" "speedbar.elc" "speedbar.el" "soundex.elc" "soundex.el" "sort.elc" "sort.el" "so-long.elc" "so-long.el" "skeleton.elc" "skeleton.el" "simple.elc" "simple.el" "shell.elc" "shell.el" "shadowfile.elc" "shadowfile.el" "ses.elc" "ses.el" "server.elc" "server.el" "select.elc" "select.el" "scroll-lock.elc" "scroll-lock.el" "scroll-bar.elc" "scroll-bar.el" "scroll-all.elc" "scroll-all.el" "saveplace.elc" "saveplace.el" "savehist.elc" "savehist.el" "ruler-mode.elc" "ruler-mode.el" "rtree.elc" "rtree.el" "rot13.elc" "rot13.el" "rfn-eshadow.elc" "rfn-eshadow.el" "reveal.elc" "reveal.el" "reposition.elc" "reposition.el" "replace.elc" "replace.el" "repeat.elc" "repeat.el" "registry.elc" "registry.el" "register.elc" "register.el" "rect.elc" "rect.el" "recentf.elc" "recentf.el" "README" "ps-samp.elc" "ps-samp.el" "ps-print.elc" "ps-print.el" "ps-print-loaddefs.elc" "ps-print-loaddefs.el" "ps-mule.elc" "ps-mule.el" "ps-bdf.elc" "ps-bdf.el" "progmodes/" "profiler.elc" "profiler.el" "proced.elc" "proced.el" "printing.elc" "printing.el" "plstore.elc" "plstore.el" "play/" "pixel-scroll.elc" "pixel-scroll.el" "pgtk-dnd.elc" "pgtk-dnd.el" "pcomplete.elc" "pcomplete.el" "pcmpl-x.elc" "pcmpl-x.el" "pcmpl-unix.elc" "pcmpl-unix.el" "pcmpl-rpm.elc" "pcmpl-rpm.el" "pcmpl-linux.elc" "pcmpl-linux.el" "pcmpl-gnu.elc" "pcmpl-gnu.el" "pcmpl-git.elc" "pcmpl-git.el" "pcmpl-cvs.elc" "pcmpl-cvs.el" "password-cache.elc" "password-cache.el" "paren.elc" "paren.el" "outline.elc" "outline.el" "org/" "obsolete/" "obarray.elc" "obarray.el" "nxml/" "novice.elc" "novice.el" "notifications.elc" "notifications.el" "newcomment.elc" "newcomment.el" "net/" "mwheel.elc" "mwheel.el" "msb.elc" "msb.el" "mpc.elc" "mpc.el" "mouse.elc" "mouse.el" "mouse-drag.elc" "mouse-drag.el" "mouse-copy.elc" "mouse-copy.el" "misearch.elc" "misearch.el" "misc.elc" "misc.el" "minibuffer.elc" "minibuffer.el" "minibuf-eldef.elc" "minibuf-eldef.el" "midnight.elc" "midnight.el" "mh-e/" "menu-bar.elc" "menu-bar.el" "md4.elc" "md4.el" "mb-depth.elc" "mb-depth.el" "master.elc" "master.el" "man.elc" "man.el" "mail/" "macros.elc" "macros.el" "ls-lisp.elc" "ls-lisp.el" "lpr.elc" "lpr.el" "locate.elc" "locate.el" "loadup.el" "loadhist.elc" "loadhist.el" "loaddefs.elc" "loaddefs.el" "leim/" "ldefs-boot.el" "language/" "kmacro.elc" "kmacro.el" "keymap.elc" "keymap.el" "kermit.elc" "kermit.el" "jsonrpc.elc" "jsonrpc.el" "json.elc" "json.el" "jka-compr.elc" "jka-compr.el" "jka-cmpr-hook.elc" "jka-cmpr-hook.el" "jit-lock.elc" "jit-lock.el" "isearchb.elc" "isearchb.el" "isearch.elc" "isearch.el" "international/" "informat.elc" "informat.el" "info.elc" "info.el" "info-xref.elc" "info-xref.el" "info-look.elc" "info-look.el" "indent.elc" "indent.el" "indent-aux.elc" "indent-aux.el" "imenu.elc" "imenu.el" "image.elc" "image.el" "image-mode.elc" "image-mode.el" "image-file.elc" "image-file.el" "image/" "iimage.elc" "iimage.el" "ielm.elc" "ielm.el" "ido.elc" "ido.el" "icomplete.elc" "icomplete.el" "ibuffer.elc" "ibuffer.el" "ibuffer-loaddefs.elc" "ibuffer-loaddefs.el" "ibuf-macs.elc" "ibuf-macs.el" "ibuf-ext.elc" "ibuf-ext.el" "htmlfontify.elc" "htmlfontify.el" "hl-line.elc" "hl-line.el" "hippie-exp.elc" "hippie-exp.el" "hilit-chg.elc" "hilit-chg.el" "hi-lock.elc" "hi-lock.el" "hfy-cmap.elc" "hfy-cmap.el" "hexl.elc" "hexl.el" "hex-util.elc" "hex-util.el" "help.elc" "help.el" "help-mode.elc" "help-mode.el" "help-macro.elc" "help-macro.el" "help-fns.elc" "help-fns.el" "help-at-pt.elc" "help-at-pt.el" "gnus/" "generic-x.elc" "generic-x.el" "fringe.elc" "fringe.el" "frameset.elc" "frameset.el" "frame.elc" "frame.el" "forms.elc" "forms.el" "format.elc" "format.el" "format-spec.elc" "format-spec.el" "font-lock.elc" "font-lock.el" "font-core.elc" "font-core.el" "follow.elc" "follow.el" "foldout.elc" "foldout.el" "flow-ctrl.elc" "flow-ctrl.el" "finder.elc" "finder.el" "finder-inf.el" "find-lisp.elc" "find-lisp.el" "find-file.elc" "find-file.el" "find-dired.elc" "find-dired.el" "find-cmd.elc" "find-cmd.el" "filesets.elc" "filesets.el" "files.elc" "files.el" "files-x.elc" "files-x.el" "filenotify.elc" "filenotify.el" "fileloop.elc" "fileloop.el" "filecache.elc" "filecache.el" "ffap.elc" "ffap.el" "faces.elc" "faces.el" "facemenu.elc" "facemenu.el" "face-remap.elc" "face-remap.el" "ezimage.elc" "ezimage.el" "external-completion.elc" "external-completion.el" "expand.elc" "expand.el" "eshell/" "erc/" "epg.elc" "epg.el" "epg-config.elc" "epg-config.el" "epa.elc" "epa.el" "epa-mail.elc" "epa-mail.el" "epa-ks.elc" "epa-ks.el" "epa-hook.elc" "epa-hook.el" "epa-file.elc" "epa-file.el" "epa-dired.elc" "epa-dired.el" "env.elc" "env.el" "emulation/" "emacs-lock.elc" "emacs-lock.el" "emacs-lisp/" "elide-head.elc" "elide-head.el" "electric.elc" "electric.el" "elec-pair.elc" "elec-pair.el" "ehelp.elc" "ehelp.el" "edmacro.elc" "edmacro.el" "editorconfig.elc" "editorconfig.el" "editorconfig-tools.elc" "editorconfig-tools.el" "editorconfig-fnmatch.elc" "editorconfig-fnmatch.el" "editorconfig-core.elc" "editorconfig-core.el" "editorconfig-core-handle.elc" "editorconfig-core-handle.el" "editorconfig-conf-mode.elc" "editorconfig-conf-mode.el" "ecomplete.elc" "ecomplete.el" "echistory.elc" "echistory.el" "ebuff-menu.elc" "ebuff-menu.el" "dynamic-setting.elc" "dynamic-setting.el" "double.elc" "double.el" "dos-w32.elc" "dos-w32.el" "dos-vars.elc" "dos-vars.el" "dos-fns.elc" "dos-fns.el" "dom.elc" "dom.el" "doc-view.elc" "doc-view.el" "dnd.elc" "dnd.el" "display-line-numbers.elc" "display-line-numbers.el" "display-fill-column-indicator.elc" "display-fill-column-indicator.el" "disp-table.elc" "disp-table.el" "dirtrack.elc" "dirtrack.el" "dired.elc" "dired.el" "dired-x.elc" "dired-x.el" "dired-loaddefs.elc" "dired-loaddefs.el" "dired-aux.elc" "dired-aux.el" "dframe.elc" "dframe.el" "desktop.elc" "desktop.el" "descr-text.elc" "descr-text.el" "delsel.elc" "delsel.el" "delim-col.elc" "delim-col.el" "dabbrev.elc" "dabbrev.el" "custom.elc" "custom.el" "cus-theme.elc" "cus-theme.el" "cus-start.elc" "cus-start.el" "cus-load.el" "cus-face.elc" "cus-face.el" "cus-edit.elc" "cus-edit.el" "cus-dep.elc" "cus-dep.el" "COPYING" "composite.elc" "composite.el" "completion.elc" "completion.el" "completion-preview.elc" "completion-preview.el" "comint.elc" "comint.el" "color.elc" "color.el" "cmuscheme.elc" "cmuscheme.el" "chistory.elc" "chistory.el" "char-fold.elc" "char-fold.el" "cedet/" "cdl.elc" "cdl.el" "case-table.elc" "case-table.el" "calendar/" "calculator.elc" "calculator.el" "calc/" "button.elc" "button.el" "buff-menu.elc" "buff-menu.el" "bs.elc" "bs.el" "bookmark.elc" "bookmark.el" "bindings.elc" "bindings.el" "bind-key.elc" "bind-key.el" "battery.elc" "battery.el" "avoid.elc" "avoid.el" "autorevert.elc" "autorevert.el" "autoinsert.elc" "autoinsert.el" "auth-source.elc" "auth-source.el" "auth-source-pass.elc" "auth-source-pass.el" "array.elc" "array.el" "arc-mode.elc" "arc-mode.el" "apropos.elc" "apropos.el" "ansi-osc.elc" "ansi-osc.el" "ansi-color.elc" "ansi-color.el" "allout.elc" "allout.el" "allout-widgets.elc" "allout-widgets.el" "align.elc" "align.el" "abbrev.elc" "abbrev.el" "../" "./")
+
+ ("c:/fasm/EXAMPLES/HELLOTERMINAL/" (26630 11639 0 0) "helloterminal.exe" "helloterminal.asm" "../" "./")
+
+ ("c:/fasm/EXAMPLES/" (26630 6067 0 0) "WIN64/" "USECOM/" "TEMPLATE/" "PEDEMO/" "OPENGL/" "MSCOFF/" "MINIPAD/" "HELLOTERMINAL/" "HELLO/" "DLL/" "DIALOG/" "DDRAW/" "CONSOLE/" "../" "./")
+
+ ("c:/fasm/" (26247 61625 0 0) "WHATSNEW.TXT" "TOOLS/" "SOURCE/" "LICENSE.TXT" "INCLUDE/" "FASMW.EXE" "FASM.pdf" "FASM.EXE" "EXAMPLES/" "../" "./")
+
+ ("d:/learn-assemblyLang/secondprogram/" (26628 17767 0 0) "main.asm" "main" "../" "./")
+
+ ("d:/learn-assemblyLang/" (26628 36089 0 0) "secondprogram/" "firstprogram/" "arm-os/" "../" "./")
+
+ ("d:/my-notes/build-on-c3/extern-c/" (26631 55743 0 0) "zigcal.zig" "zigcal.lib.obj" "zigcal.lib" "odincal.odin" "makefile" "main.c3~" "main.c3" "calculator.pdb" "calculator.o" "calculator.lib" "calculator.exe" "calculator.c~" "calculator.c" ".build/" "#main.c3#" "../" "./")
+
+ ("c:/Users/triil/.emacs.d/lang/" (26631 50808 0 0) "c3-language.el" "../" "./")
+
+ ("c:/Users/triil/.emacs.d/auto-save-list/" (26631 49857 0 0) ".saves-50812-FATTAH25~" "../" "./")
+
+ ("c:/Users/triil/scoop/" (26192 34253 0 0) "shims/" "persist/" "cache/" "buckets/" "apps/" "../" "./")
+
+ ("c:/Users/triil/scoop/apps/" (26629 58209 0 0) "zoxide/" "zed-nightly/" "yazi/" "whkd/" "unar/" "tinygo/" "shellcheck/" "scoop-search/" "scoop/" "ripgrep/" "restic/" "poppler/" "pandoc/" "llvm/" "lazygit/" "komorebi/" "jq/" "hugo-extended/" "helix/" "grep/" "go/" "gleam/" "fzf/" "fd/" "erlang/" "emacs/" "doggo/" "cleed/" "7zip/" "../" "./")
+
+ ("c:/Users/triil/scoop/apps/emacs/" (26629 58407 0 0) "current/" "30.1/" "../" "./")
+
+ ("c:/Users/triil/scoop/apps/emacs/current/" (26629 58426 0 0) "share/" "manifest.json" "libexec/" "lib/" "install.json" "include/" "bin/" "../" "./")
+
+ ("c:/Users/triil/scoop/apps/emacs/current/bin/" (26555 24071 0 0) "zlib1.dll" "runemacs.exe" "libzstd.dll" "libXpm-nox4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libwebpdemux-2.dll" "libwebp-7.dll" "libunistring-5.dll" "libtree-sitter.dll" "libthai-0.dll" "libtasn1-6.dll" "libstdc++-6.dll" "libsqlite3-0.dll" "libsharpyuv-0.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre2-8-0.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-8.dll" "libmpfr-6.dll" "libmpc-3.dll" "liblzma-5.dll" "liblcms2-2.dll" "libjpeg-8.dll" "libisl-23.dll" "libintl-8.dll" "libidn2-0.dll" "libiconv-2.dll" "libhogweed-6.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgobject-2.0-0.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-8.dll" "libexpat-1.dll" "libdatrie-1.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libbrotlienc.dll" "libbrotlidec.dll" "libbrotlicommon.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-30.1.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+
+ ("d:/my-notes/build-on-c3/" (26616 30718 0 0) "wat-wasm/" "wasm-c3/" "ray-c3/" "extern-c/" "analitic-c3/" "../" "./")
+
+ ("d:/my-notes/" (26611 45120 0 0) "zig-with-c/" "risc-v_workspace/" "rider-cpp/" "retro/" "real-notes/" "raylibhelloworld.exe" "raylib-project/" "pytorch-5/" "public/" "odin-trial/" "jurnal/" "hexdump/" "genesis-simulator/" "conda-project/" "build-tex/" "build-on-c3/" "base64/" "#main.c#" "../" "./")
+
+ ("c:/Users/" (26592 11431 0 0) "WsiAccount/" "triil/" "Public/" "postgres/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
