@@ -9,9 +9,12 @@
      default))
  '(display-line-numbers-type 'relative)
  '(inhibit-startup-screen t)
- '(package-selected-packages '(drag-stuff gruber-darker-theme slime-company zig-mode))
+ '(package-selected-packages
+   '(ada-ref-man buffer-move drag-stuff emojify gruber-darker-theme
+		 lsp-mode lua-mode slime-company zig-mode))
  '(ring-bell-function 'ignore)
- '(visible-bell t))
+ '(visible-bell t)
+ '(warning-suppress-log-types '((ada))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
